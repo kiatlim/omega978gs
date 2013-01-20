@@ -1,5 +1,5 @@
-name = 'Pixel Onion Starterkit'
-description = 'Pixel Onion Starterkit for 978px grid in <a href="http://drupal.org/project/omega">Omega</a>. Based on omega-html5 starterkit and <a href="http://978.gs">978.gs</a>.'
+name = 'Omega 978.gs Starterkit'
+description = 'Starterkit for 978px grid in <a href="http://drupal.org/project/omega">Omega</a>. Based on omega-html5 starterkit and <a href="http://978.gs">978.gs</a>.'
 core = '7.x'
 engine = 'phptemplate'
 screenshot = 'screenshot.png'
